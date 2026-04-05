@@ -3,6 +3,8 @@ import pickle
 import pandas as pd
 import numpy as np
 import re
+import joblib
+
 
 st.set_page_config(
     page_title="Job Intelligence System",
@@ -506,14 +508,9 @@ html, body, [data-testid="stAppViewContainer"] {
 # -----------------------------
 @st.cache_resource
 def load_model():
-    with open("career_role_model.pkl", "rb") as f:
-        model = pickle.load(f)
-
-    with open("tfidf_vectorizer.pkl", "rb") as f:
-        vectorizer = pickle.load(f)
-
+    model = joblib.load("career_role_model.pkl")
+    vectorizer = joblib.load("tfidf_vectorizer.pkl")
     return model, vectorizer
-
 model, vectorizer = load_model()
 
 # -----------------------------
