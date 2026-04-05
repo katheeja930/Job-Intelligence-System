@@ -33,6 +33,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## You can also try this @
+```https://job-intelligence-system-j9kysxwdoudy4wekbqd3or.streamlit.app```
+
 ##  Files
 - `app.py` → Streamlit dashboard
 - `career_role_model.pkl` → trained ML model
