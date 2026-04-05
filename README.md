@@ -32,9 +32,8 @@ This project predicts suitable tech career roles based on user-entered skills an
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-[## You can also try this @
-```https://job-intelligence-system-j9kysxwdoudy4wekbqd3or.streamlit.app```](https://job-intelligence-system-j9kysxwdoudy4wekbqd3or.streamlit.app/)
+## 🌐 Live Demo
+[Click here to use the app](https://job-intelligence-system-j9kysxwdoudy4wekbqd3or.streamlit.app)
 
 ##  Files
 - `app.py` → Streamlit dashboard
