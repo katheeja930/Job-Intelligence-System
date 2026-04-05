@@ -33,8 +33,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## You can also try this @
-```https://job-intelligence-system-j9kysxwdoudy4wekbqd3or.streamlit.app```
+[## You can also try this @
+```https://job-intelligence-system-j9kysxwdoudy4wekbqd3or.streamlit.app```](https://job-intelligence-system-j9kysxwdoudy4wekbqd3or.streamlit.app/)
 
 ##  Files
 - `app.py` → Streamlit dashboard
