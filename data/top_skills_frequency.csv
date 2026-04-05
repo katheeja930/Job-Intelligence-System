@@ -1,0 +1,2480 @@
+skill,count
+python,482
+automation,243
+java,224
+sql,205
+machine learning,204
+kubernetes,200
+javascript,174
+development,170
+artificial intelligence,164
+agile,155
+aws,149
+css,146
+microservices,140
+docker,140
+backend,134
+front end,130
+git,130
+networking,114
+data analysis,107
+soc,105
+android,105
+coding,105
+tensorflow,103
+linux,103
+computer science,101
+cyber security,99
+analytical,97
+version control,94
+cloud,90
+gcp,89
+ci/cd,86
+software testing,86
+microsoft azure,85
+react,85
+ai,85
+continuous integration,83
+software engineer,81
+data management,80
+spring boot,80
+rest,78
+data analytics,76
+bootstrap,76
+information security,76
+github,74
+automation testing,70
+test cases,70
+react.js,69
+siem,69
+project management,67
+mongodb,67
+html,67
+mysql,67
+data modeling,66
+devops,65
+jquery,65
+manager technology,63
+intelligence,63
+natural language processing,61
+software development,61
+microsoft,60
+pyspark,59
+kotlin,58
+flutter development,58
+debugging,58
+selenium,58
+c++,55
+hibernate,54
+network security,54
+database design,54
+mern stack,52
+node.js,52
+postgresql,52
+data science,52
+data,51
+lambda,51
+spring,51
+power bi,49
+analytics,49
+administration,49
+change management,49
+troubleshooting,48
+ajax,47
+generative ai,47
+hive,46
+redux,46
+frontend development,46
+machine,46
+sqlite,46
+manual testing,45
+windows,45
+manager quality assurance,45
+operations,45
+performance testing,44
+xml,44
+mobile application development,44
+llm,44
+operational excellence,43
+process improvement,43
+terraform,42
+management,42
+ui development,42
+cloud security,41
+json,41
+c,41
+site reliability engineering,41
+architecture,40
+android application development,40
+flutter,40
+system administration,39
+django,39
+application development,39
+security,38
+boot,37
+mern,37
+scala,37
+api,37
+azure,37
+testing tools,37
+python development,37
+iac,36
+deep learning,36
+erp,36
+java development,36
+dart,35
+compliance,34
+risk management,34
+backend development,34
+dns,34
+monitoring,34
+consulting,33
+information technology,33
+jira,33
+data structures,32
+security operations,32
+data scientist,31
+fullstack development,31
+devops engineer,31
+web technologies,31
+application,30
+user interface designing,30
+data engineer,30
+ios,30
+data warehousing,29
+emerging technologies,29
+android studio,29
+unit testing,28
+performance tuning,28
+apache,28
+sre,28
+databricks,27
+dbms,27
+cd,27
+j2ee,27
+analysis,27
+restful,27
+ansible,27
+mean stack,26
+middleware,26
+retrieval augmented generation,26
+regression testing,26
+data analyst,26
+data processing,26
+ssrs,26
+jenkins,26
+aiml,26
+full stack,25
+orchestration,25
+active directory,25
+design principles,25
+problem solving,25
+healthcare,25
+programming,24
+visual studio,24
+agentic ai,24
+spark,23
+system,23
+incident response,23
+quality assurance engineering,23
+root cause analysis,23
+web application,23
+nosql,23
+stack,23
+cyber,23
+engineering,23
+mvvm,23
+data engineering,22
+unix,22
+kafka,22
+powershell,22
+vulnerability management,22
+langchain,22
+mobile applications,22
+soc analyst,21
+angular,21
+threat analysis,21
+quality assurance,21
+pytorch,20
+computer vision,20
+application security,20
+scalability,20
+web services,20
+open source,20
+azure cloud,20
+cloud platforms,20
+qa,20
+configuration management,20
+analytical skills,20
+iphone,20
+shell scripting,20
+data pipelines,20
+functional testing,20
+api testing,20
+data visualization,20
+vmware,20
+workflow,19
+oracle,19
+airflow,19
+photoshop,19
+php,19
+ml,19
+snowflake,19
+c#,18
+test engineering,18
+virtualization,18
+deployment,18
+excel,18
+infrastructure,18
+typescript,18
+firebase,18
+iso 27001,18
+incident management,18
+design,18
+cloud technologies,17
+cloud computing,17
+backend developer,17
+maven,17
+owasp,17
+reliability,17
+usage,17
+algorithms,17
+web development,17
+stakeholder management,17
+operating systems,17
+product analysis,17
+security engineering,17
+ux,17
+business intelligence,17
+express,16
+data mining,16
+research,16
+web application architecture,16
+training,16
+data quality,16
+scrum,16
+testing,16
+flask,16
+ceh,16
+risk assessment,16
+amazon redshift,16
+database management,15
+technical support,15
+etl,15
+sap,15
+scripting,15
+financial services,15
+pdf,14
+android sdk,14
+mobile development,14
+network administration,14
+splunk,14
+python developer,14
+mlops,14
+vulnerability assessment,14
+ip,14
+site,14
+performance management,14
+test scripts,14
+container,14
+firewall,14
+data bricks,14
+forecasting,13
+iso,13
+prometheus,13
+business analysis,13
+bi,13
+it security,13
+user experience,13
+bash,13
+cloud platform,12
+database,12
+event management,12
+vue.js,12
+system design,12
+access management,12
+ci cd pipeline,12
+disaster recovery,12
+cloud services,12
+security services,12
+continuous improvement,12
+basic,12
+nextjs,12
+iam,12
+agile development,12
+numpy,12
+tableau,12
+azure devops,12
+ai solutions,12
+software development life cycle,12
+penetration testing,12
+cisco,11
+spring mvc,11
+sdlc,11
+system administrator,11
+communication skills,11
+enterprise applications,11
+vulnerability,11
+api gateway,11
+hp data protector,11
+cissp,11
+security management,11
+front,11
+hipaa,11
+voip,11
+integration testing,11
+server,11
+sdk,11
+framework,10
+programming languages,10
+sentinel,10
+scheduling,10
+rag,10
+software,10
+remediation,10
+grafana,10
+ethical hacking,10
+mvp,10
+java developer,10
+core java,10
+hardware,10
+security testing,10
+languages,10
+product engineering,10
+wan,10
+jmeter,10
+configuration,10
+firewalls,10
+supply chain,10
+fast api,10
+software design,9
+large language model,9
+node,9
+aks,9
+servicenow,9
+defect tracking,9
+rest api,9
+http,9
+science,9
+customer service,9
+product management,9
+reliability engineering,9
+predictive modeling,9
+api integration,9
+investigation,9
+.net,9
+ruby,9
+r,9
+s3,9
+system support,9
+apis,9
+team management,9
+distribution system,9
+senior analyst,9
+cybersecurity,9
+advanced excel,9
+jsp,9
+end,9
+pandas,9
+business transformation,9
+siem tools,9
+langgraph,9
+manual,9
+software quality,8
+application developer,8
+aws devops,8
+telecom,8
+jetpack,8
+soar,8
+adobe,8
+edr,8
+process,8
+it services,8
+log analysis,8
+pci dss,8
+full stack developer,8
+threat intelligence,8
+security operations center,8
+angularjs,8
+publishing,8
+wordpress,8
+sas,8
+it infrastructure,8
+html5,8
+integration,8
+android developer,8
+sales,8
+appium,8
+generation,8
+vpc,8
+neural networks,8
+security assessment,8
+python framework,8
+mvc,8
+focus,8
+business analyst,8
+gen ai,7
+app development,7
+coaching,7
+cism,7
+threat hunting,7
+hiring,7
+sql queries,7
+azure databricks,7
+ms office,7
+rca,7
+cs,7
+postman,7
+eks,7
+restfull api,7
+qradar,7
+system testing,7
+analyst,7
+ai/ml,7
+insurance,7
+frontend developer,7
+product analyst,7
+statistics,7
+nlp,7
+dashboards,7
+devsecops,7
+site reliability,7
+confluence,7
+aws lambda,7
+managed services,7
+load balancing,7
+data collection,7
+perl,7
+oops,7
+automotive,7
+business analytics,7
+salesforce,7
+plsql,7
+oscp,7
+processing,7
+checkpoint,6
+infrastructure security,6
+etl process,6
+playwright,6
+side,6
+golang,6
+agile scrum,6
+redshift,6
+statistical modeling,6
+business processes,6
+sprint,6
+banking,6
+rdbms,6
+recovery,6
+security frameworks,6
+cloud infrastructure,6
+system architecture,6
+agile methodology,6
+web designing,6
+java spring boot,6
+web application firewall,6
+intrusion detection,6
+innovation,6
+it service management,6
+burp suite,6
+testing process,6
+business strategy,6
+mathematics,6
+arcsight,6
+bricks,6
+dom,6
+amazon lex,6
+user stories,6
+image processing,6
+assistant vice president,6
+antivirus,6
+swift,6
+nessus,6
+threat modeling,6
+metadata,6
+sast,6
+dlp,6
+vapt,6
+ips,6
+data validation,6
+alerting,6
+database administration,6
+sql server,6
+schema,6
+security compliance,6
+hadoop,6
+documentation,6
+server support,6
+rest api integration,6
+lan,6
+ai frameworks,6
+leadership,5
+data architecture,5
+machine learning algorithms,5
+security tools,5
+bigquery,5
+hardware networking,5
+xcode,5
+production support,5
+quality control,5
+gaming,5
+network management,5
+data pipeline,5
+aws cloudformation,5
+computer,5
+security analysis,5
+qa testing,5
+gcp cloud,5
+chef,5
+infrastructure as code,5
+database management system,5
+windows server,5
+customer support,5
+ethics,5
+server administration,5
+data governance,5
+security monitoring,5
+graphql,5
+forensic,5
+large,5
+infrastructure management,5
+cloud engineer,5
+bdd,5
+firmware,5
+sailpoint,5
+security audit,5
+test planning,5
+individual contributor,5
+auditing,5
+tools,5
+malware analysis,5
+sla,5
+io,5
+endpoint security,5
+computer hardware,5
+ui ux,5
+expresjs,5
+communication and interpersonal skills,5
+opencv,5
+it operations,5
+asp.net,5
+qa engineer,5
+flutter developer,5
+career development,5
+test case execution,5
+aviation,5
+ticketing,5
+patch management,5
+time series analysis,5
+docker swarm,5
+presentation skills,5
+containerization,4
+technical leadership,4
+google,4
+google cloud platform,4
+l3,4
+automotive infotainment,4
+bitbucket,4
+palo alto firewall,4
+nist,4
+uat,4
+san,4
+crowdstrike,4
+security+,4
+program,4
+cvs,4
+dynatrace,4
+dss,4
+microsoft windows,4
+it infrastructure management,4
+rest apis,4
+chatbot,4
+push notification,4
+test scenarios,4
+quality engineering,4
+iam tools,4
+aws cloud,4
+e-commerce,4
+identity access management,4
+redis,4
+cloudera,4
+windows os,4
+software engineering,4
+big data,4
+cryptography,4
+english,4
+laravel,4
+performance optimization,4
+cnn,4
+object detection,4
+rds,4
+installation,4
+test management,4
+cypress,4
+customer experience,4
+presales,4
+test strategy,4
+cucumber,4
+tcp,4
+solaris,4
+business process,4
+system integration,4
+trading,4
+dhcp,4
+office,4
+data manipulation,4
+billing,4
+master data,4
+test automation,4
+assurance,4
+product quality,4
+linux server,4
+process design,4
+selenium webdriver,4
+screening,4
+gdpr,4
+ai engineer,4
+ui,4
+multithreading,4
+huggingface,4
+reporting,4
+test data,4
+automated test scripts,4
+query,4
+semiconductor,4
+retail,4
+junit,4
+hardware support,4
+lan troubleshooting,4
+adobe acrobat,4
+data integrity,4
+collection,4
+retrofit,4
+android development,4
+security framework,4
+bugzilla,4
+quality audit,4
+modeling,4
+python programming,4
+ai platform,4
+gke,4
+regression,4
+design development,4
+lms,4
+informatica,4
+ccna,4
+hacking,4
+ui/ux,4
+technical writing,4
+multitasking,4
+time management,4
+qa automation,4
+stlc,4
+ci/cd pipelines,4
+itsm,4
+object oriented design,4
+finance,4
+payroll,4
+google analytics,4
+tdd,4
+cisco firewall,4
+nodejs,4
+rtos,3
+statistical analysis,3
+human resources,3
+sat,3
+vertex ai,3
+security infrastructure,3
+ssl,3
+application security testing,3
+aws security,3
+printing,3
+cctv,3
+vertex,3
+cl,3
+corporate,3
+process automation,3
+jpa,3
+soa,3
+ecs,3
+openai,3
+proposal writing,3
+data infrastructure,3
+center,3
+azure data factory,3
+db2,3
+electrical engineering,3
+full stack development,3
+cloud architecture,3
+aerospace,3
+tcp/ip,3
+dast,3
+pan,3
+gcp devops,3
+prompt engineering,3
+oracle database,3
+automation tools,3
+claude code,3
+mcp,3
+system troubleshooting,3
+monitoring tools,3
+customer experience management,3
+ai techniques,3
+appdynamics,3
+core,3
+elk,3
+computation,3
+application monitoring,3
+restful apis,3
+security information and event management,3
+express.js,3
+use cases,3
+etl tools,3
+asp.net core,3
+health insurance,3
+internship,3
+it risk management,3
+nac,3
+access,3
+incident,3
+mern stack developer,3
+state management,3
+digital marketing,3
+qc,3
+product design,3
+iis,3
+access control,3
+.net core,3
+cyber security analyst,3
+mobile security,3
+shaping,3
+eda,3
+ml pipelines,3
+cmdb,3
+itil,3
+ms sql,3
+grc,3
+electronics,3
+aws sagemaker,3
+desktop administration,3
+desktop support,3
+server management,3
+prototype,3
+advanced java,3
+activemq,3
+software installation,3
+seo,3
+certified ethical hacker,3
+cyber threat,3
+threat detection,3
+social media,3
+jsp servlets,3
+struts,3
+edi,3
+master data management,3
+team,3
+application programming,3
+code quality,3
+mdm,3
+jee,3
+business administration,3
+adaptability,3
+office 365,3
+diversity and inclusion,3
+rest api design,3
+mobile app development,3
+market data,3
+csr,3
+research analyst,3
+issue resolution,3
+environmental science,3
+analog,3
+database maintenance,3
+digital transformation,3
+management systems,3
+cspm,3
+django framework,3
+ccsp,3
+gradle,3
+html/css,3
+data reporting,3
+flutter sdk,3
+ios development,3
+verbal communication,3
+requirement gathering,3
+investment banking,3
+risk,3
+google sheets,3
+bi tools,3
+strong analytical skills,3
+nist cyber security,3
+manager quality control,3
+claims,3
+staffing,3
+soap ui,3
+rest api testing,3
+application architecture,3
+cms,3
+cicd,3
+predictive analytics,3
+xgboost,3
+manufacturing,3
+soar automation,3
+ab testing,3
+etl testing,3
+pytest,3
+logistics,3
+project,3
+procurement,3
+software solutions,3
+interpersonal skills,3
+testing methodologies,3
+networking protocols,3
+load testing,3
+pharma,3
+trade,3
+matlab,3
+application engineering,3
+data warehouse,3
+configuring,3
+rss,3
+smoke testing,3
+asset management,3
+scikit-learn,3
+workflow orchestration,3
+azure ml,3
+simulation,3
+talent acquisition,3
+development manager,3
+medical insurance,3
+market analysis,2
+supply chain operations,2
+customer engagement,2
+product manager,2
+product life cycle management,2
+competitor analysis,2
+ai agents,2
+automobile,2
+qa qc,2
+fintech,2
+pmp,2
+rest api development,2
+strategic thinking,2
+technical lead,2
+data standards,2
+system configuration,2
+process engineering,2
+ot,2
+software architecture,2
+ide,2
+supply chain management,2
+failure analysis,2
+functional,2
+operations research,2
+d365,2
+snmp,2
+equity,2
+problem-solving,2
+conceptualization,2
+openvas,2
+security automation,2
+nestjs,2
+training and development,2
+reacts js,2
+sass,2
+socket.io,2
+mentor,2
+web application development,2
+systems architecture,2
+jtag,2
+linux kernel,2
+hdfs,2
+information security analyst,2
+query optimization,2
+mvc architecture,2
+data security,2
+caching,2
+udp,2
+wireless,2
+application testing,2
+network penetration testing,2
+responsive ui,2
+build automation,2
+manage,2
+network security basics,2
+resource management,2
+data loss prevention,2
+microsoft defender,2
+crisis management,2
+powerpoint,2
+architectural design,2
+checkpoint firewall,2
+reconciliation,2
+security engineer,2
+work ethics,2
+azure synapse,2
+vulnerability scanning,2
+cisco certified,2
+azure sentinel,2
+microsoft defender for endpoint,2
+curriculum development,2
+security implementation,2
+operations analyst,2
+glm,2
+puppet,2
+graphql apis,2
+cisa,2
+architecting,2
+logrhythm,2
+equity derivatives,2
+stock exchange,2
+service level,2
+sms,2
+security systems,2
+nagios,2
+microsoft sentinel,2
+content management,2
+mixed signal,2
+microsoft purview,2
+elk stack,2
+ai algorithms,2
+rfp,2
+fortigate,2
+cisco asa,2
+spring framework,2
+stack development,2
+engineering manager,2
+bash scripting,2
+groovy,2
+apache tomcat,2
+devops engineering,2
+aws certified,2
+microsoft 365,2
+life sciences,2
+google cloud platforms,2
+solution architecting,2
+time series,2
+aws infrastructure,2
+aws services,2
+genesys,2
+concept design,2
+iics,2
+informatica idmc,2
+mac os,2
+cyberark pam,2
+pam,2
+hunting,2
+responsible ai,2
+continuous deployment,2
+cd tools,2
+system reliability,2
+typesetting,2
+backup and recovery,2
+stt,2
+aws/azure/gcp,2
+it infrastructure support,2
+sccm,2
+drives,2
+technology,2
+security operations automation,2
+soc services,2
+security operations services,2
+customer relationship management,2
+metasploit,2
+nmap,2
+remote access,2
+cyberark,2
+core java development,2
+solution architecture,2
+issue management,2
+recruiter,2
+project implementation,2
+project planning,2
+vendor,2
+redhat linux,2
+aws/azure,2
+ml ops,2
+entra id,2
+pim,2
+conditional access,2
+cyber security sales,2
+identity management solutions,2
+cybersecurity software,2
+linux system administration,2
+saas,2
+release management,2
+machine learning engineer,2
+transcription,2
+express js,2
+mongo db,2
+mocha,2
+es6,2
+payment gateway,2
+edge,2
+iot,2
+api automation,2
+awsazure,2
+infrastructure support,2
+vector database,2
+apache spark,2
+scale,2
+datadog,2
+high availability,2
+openshift,2
+hospitality,2
+production engineering,2
+revenue management,2
+linux administration,2
+nltk,2
+machine learning operations,2
+recruitment,2
+information security management,2
+database security,2
+observability,2
+kibana,2
+data services,2
+tomcat,2
+wifi,2
+backup,2
+succession planning,2
+talent management,2
+media,2
+telecommunications,2
+cyber forensics,2
+tool design,2
+ml engineer,2
+processor architecture,2
+spacy,2
+accessories,2
+ml deployment,2
+vpn,2
+it administration,2
+ftp,2
+account management,2
+control system,2
+iso 27001 lead auditor,2
+core banking,2
+java j2ee developer,2
+network support,2
+cctv monitoring,2
+it,2
+algorithm development,2
+laptop support,2
+desktop,2
+serv,2
+it helpdesk,2
+helpdesk,2
+data operations,2
+mis,2
+data extraction,2
+visualization tools,2
+j2ee development,2
+operational support,2
+android architecture,2
+developer,2
+sdk integrations,2
+senior executive,2
+crm,2
+software troubleshooting,2
+xenserver,2
+commvault,2
+veeam,2
+it support,2
+espresso,2
+governance,2
+linguistics,2
+rabbitmq,2
+jdbc,2
+eclipse,2
+cloud native,2
+cybersecurity frameworks,2
+accounting,2
+research tools,2
+macros,2
+hr,2
+hrm,2
+agile methodologies,2
+data cleansing,2
+data lineage,2
+hindi,2
+data interpretation,2
+service excellence,2
+ui automation,2
+automated testing,2
+soap,2
+bug fixing,2
+google api,2
+senior,2
+financial data,2
+rxjava,2
+memory management,2
+automotive software,2
+coordinate,2
+communicate,2
+jetpack compose,2
+load runner,2
+automation framework,2
+external audit,2
+security architect,2
+paas,2
+xdr,2
+python data analytics,2
+service cloud,2
+elt,2
+java selenium,2
+python scripting,2
+data privacy,2
+regulatory compliance,2
+capital market,2
+packaging,2
+bloc,2
+fabrication,2
+logistic regression,2
+internal audit,2
+isms,2
+legal,2
+predictive,2
+advanced analytics,2
+banking sector,2
+data preprocessing,2
+hypothesis testing,2
+pivot table,2
+vlookup,2
+test case design,2
+rest assured,2
+e2e testing,2
+wealth management,2
+public health,2
+oncology,2
+testng,2
+robot framework,2
+mobile automation,2
+subject matter expert,2
+quality standards,2
+investment,2
+clustering,2
+storage management,2
+ml algorithms,2
+playwright automation,2
+mobile testing,2
+planning,2
+database testing,2
+b2b,2
+vision,2
+storytelling,2
+product life cycle,2
+market research,2
+scrum master,2
+protocol stack,2
+workday,2
+architect,2
+semantic kernel,2
+telematics,2
+automation lead,2
+pharmacy,2
+signal processing,2
+case,2
+tracking,2
+hardware testing,2
+red,2
+commerce,2
+code review,2
+ddos,2
+cloudflare,2
+akamai,2
+ubuntu,2
+secure coding,2
+regulations,2
+threat management,2
+risk analysis,2
+splunk enterprise security,2
+protocols,2
+mean,2
+web,2
+api development,2
+plc,1
+chemical analysis,1
+consumer goods,1
+product strategy,1
+product innovation,1
+product research,1
+and insights,1
+microsoft fabric,1
+scoring,1
+roadmap,1
+roadmap planning,1
+prds,1
+dashboards reporting,1
+marketing technology,1
+gap analysis,1
+business economics,1
+translation,1
+customer acquisition,1
+digital,1
+product marketing,1
+business acumen,1
+funnel analysis,1
+teamwork,1
+django / flask framework,1
+sql & database management,1
+scada,1
+ot security,1
+enterprise asset management,1
+project team,1
+server architecture,1
+capital markets,1
+programmer,1
+software trainee,1
+atci-5231440-s1942262,1
+atci-5231447-s1942255,1
+service management,1
+business process transformation,1
+technical coding,1
+ami,1
+siem qradar,1
+siem splunk,1
+incident response & security operations,1
+vulnerability management tools,1
+operational technology,1
+dcs,1
+flask/django,1
+mysql / postgresql,1
+preventive maintenance,1
+valves,1
+lisp,1
+web scraping,1
+pytho,1
+pyramid,1
+collaboration,1
+django rest api,1
+sdlc life cycle,1
+python flask,1
+flex,1
+ueba,1
+data structures & algorithms,1
+open systems,1
+software configuration,1
+pricing models,1
+domain knowledge,1
+websocket,1
+erpnext,1
+sqlalchemy,1
+unit,1
+network automation,1
+searching,1
+ollama,1
+framework development,1
+object oriented programming,1
+tool development,1
+smart grid,1
+professional development,1
+java frameworks,1
+mitre,1
+third party risk management,1
+elastic search,1
+django/flask/fastapi,1
+database technologies,1
+orm,1
+arbor,1
+contract management,1
+databricks engineer,1
+cloud environment,1
+quarkus,1
+oops design patterns,1
+frameworks spring,1
+javafx,1
+data structures and algorithms,1
+unix linux,1
+mvc framework,1
+javas,1
+compliance management,1
+perimeter security,1
+acunetix,1
+appscan,1
+industrial automation,1
+stored procedures,1
+lang graph,1
+tibco,1
+microservices architecture and restful service design,1
+spring mvc and spring batch frameworks,1
+core java and java 8 features,1
+spring boot/token formats,1
+java servlets,1
+udeploy,1
+jfrog,1
+cloud native architecture,1
+j2ee architecture,1
+team leading,1
+cis,1
+catalyst,1
+enterprise architecture,1
+cloud security posture management,1
+test-driven development,1
+yarn,1
+owsap,1
+iso audit,1
+purple teaming,1
+osint,1
+adversary simulation,1
+attack simulation,1
+domain driven design,1
+jakarta ee,1
+java fullstack,1
+hibernate framework,1
+as400,1
+core java programming,1
+java backend,1
+spring security,1
+ebx,1
+elasticsearch,1
+backend performance,1
+mern full stack,1
+react js,1
+os,1
+buffer overflow,1
+communication protocols,1
+networking basics,1
+project execution,1
+springboot,1
+development lead,1
+lead architect,1
+sprong,1
+rpa,1
+springboot java,1
+cdac,1
+db,1
+programming & frontend,1
+tools & technologies,1
+backend & api,1
+core mern skills,1
+sr,1
+react postgresql,1
+bri,1
+iam security,1
+network access control,1
+ssdlc,1
+code reverse engineering,1
+psd,1
+development testing,1
+message broker,1
+websockets,1
+ui mockup,1
+ccsk,1
+casm,1
+cnapp,1
+prisma cloud,1
+implementing,1
+designing,1
+security architecture principles,1
+container security,1
+cybersecurity architecture,1
+filtering,1
+iso standards,1
+network architecture,1
+windows security,1
+jsx,1
+crud,1
+iot platforms,1
+sales b2b,1
+business development,1
+bd,1
+sales executive,1
+ai research,1
+azure policy,1
+digitalocean,1
+mean stack development,1
+social media marketing,1
+react native js,1
+outsourcing,1
+hapi framework,1
+d3js,1
+fusion chart,1
+nosql database,1
+kafka or elasticsearch,1
+technology solutions,1
+gulp,1
+web applications,1
+modern web technologies,1
+rcm,1
+cpm,1
+wazuh,1
+comptia security+,1
+relationship,1
+full stack developer (nodejs,1
+sveltekit,1
+typescript),1
+react/angular,1
+web designer,1
+it manager,1
+sca,1
+ibm verify governance,1
+it network infrastructure,1
+casb,1
+web proxy,1
+business continuity planning,1
+sec,1
+information security consulting,1
+iso 27701,1
+consulting and implementation,1
+soc 2 type 1 and type 2,1
+epm,1
+cp,1
+ccp,1
+ai tool,1
+cloud infra,1
+webapi,1
+linq,1
+core dotnet,1
+single sign-on,1
+entity framework core,1
+fullstack,1
+web technology,1
+plugins,1
+operating system,1
+network infrastructure,1
+medical,1
+nist csf,1
+mitre att&ck,1
+dptm,1
+mtcs,1
+cloud azure,1
+fastify,1
+nodejs server,1
+python automation/scripting,1
+f5,1
+cisco nexus,1
+nexus switches,1
+cisco aci,1
+security strategy,1
+rfq,1
+bid management,1
+request for proposal,1
+rfx,1
+rfi,1
+full-stack development,1
+jasper reports,1
+postgres database,1
+web application security,1
+interactive application security testing,1
+network protocols,1
+disaster recovery planning,1
+switching,1
+security policies,1
+packet capture & analysis,1
+routing & switching,1
+ios app,1
+software systems,1
+java code,1
+concurrent,1
+gwt,1
+relational databases,1
+web api,1
+ci,1
+ruby on rails,1
+spare parts,1
+core php,1
+sql database,1
+enterprise,1
+ruby rails,1
+platform development,1
+embedded c,1
+palo alto networks,1
+aix,1
+network architectures,1
+vulnerability assessments,1
+intrusion detection systems,1
+cad,1
+standard operating procedures,1
+fortigate firewall,1
+jest,1
+system management,1
+cloud apps,1
+mdi,1
+defender for identity,1
+detection,1
+firmware development,1
+german,1
+schema design,1
+python and django,1
+electronjs,1
+sourcing,1
+collaboration tools,1
+team building,1
+gis,1
+business executive,1
+rust,1
+tier 1 college,1
+nit,1
+iit,1
+jsf,1
+test driven development,1
+engineering design,1
+source code review,1
+back end,1
+hardware security,1
+project coordination,1
+stakeholder engagement,1
+saviynt,1
+wellness,1
+unix systems,1
+rest api services,1
+project development,1
+ldap,1
+technical subject matter expert,1
+costing,1
+ticketing tools,1
+gcse,1
+gcsa,1
+guardicore application,1
+guardicore,1
+guardicore implementation,1
+attack techniques,1
+network,1
+system security,1
+vulnerability assessment and penetration testing,1
+cyber threat intelligence,1
+actix,1
+webkit,1
+min,1
+team operations,1
+platform security engineer,1
+network control,1
+kernel,1
+ci/cd integration,1
+kernel hardening,1
+selinux,1
+security engineer i,1
+sox,1
+sox audit,1
+workday security,1
+project delivery,1
+xhtml,1
+video conferencing,1
+css/css3,1
+react developer,1
+material ui,1
+unit testing framework,1
+adobe xd,1
+develop code,1
+financial domain,1
+apra,1
+ai threat modeling,1
+mitre atlas,1
+machine learning security top 10,1
+semantic kernel architecture,1
+owasp llm top 10,1
+ai/llm security,1
+static,1
+static application security testing,1
+jpeg,1
+quality analyst,1
+hr executive,1
+dicom,1
+webhooks,1
+workflow automation,1
+driving,1
+business solutions,1
+pcie,1
+asic,1
+l2,1
+waf,1
+e commerce,1
+digital security,1
+cdn platform,1
+responsive design,1
+gwapt,1
+ai pen testing,1
+application penetration testing,1
+enterprise software,1
+genetics,1
+communication design,1
+manager internal audit,1
+loss prevention,1
+front end framework,1
+space management,1
+business applications,1
+ux design,1
+dreamweaver,1
+intern,1
+build tools,1
+front end technologies,1
+policy regulations,1
+osi,1
+cyber security fundamentals,1
+fundamentals,1
+cybersecurity fundamentals,1
+react development,1
+vuejs,1
+web developer,1
+angular development,1
+wireframing,1
+pop,1
+software services,1
+wordpress development,1
+. net,1
+mobx,1
+coordination,1
+atci-5095941-s1884376,1
+apache pig,1
+data pipeline architecture,1
+atci-5096056-s1884382,1
+risk governance,1
+effective communication,1
+directory services,1
+wireless technology,1
+technician,1
+dkim,1
+symantec,1
+zscaler,1
+zscaler web security,1
+trainer,1
+white box testing,1
+css3,1
+adfs,1
+dimensional modeling,1
+synapse analytics,1
+ssis,1
+concepts,1
+tcp/ip concepts,1
+understanding of cybersecurity principles & practices,1
+risk mitigation,1
+people management skills,1
+critical thinking,1
+tracking systems,1
+cyber risk,1
+mobile application security,1
+problem management,1
+atci-5096041-s1884397,1
+atci-5095951-s1884366,1
+load,1
+data ingestion,1
+factory,1
+forensic analysis,1
+file systems,1
+splunk development,1
+implementation and support,1
+relationship building,1
+invoice processing,1
+ibm qradar,1
+cyber security trainer,1
+soc 2,1
+it audit,1
+user provisioning,1
+cloud data migration,1
+pig,1
+skill development,1
+managed security services,1
+query languages,1
+incident handling,1
+sumo logic,1
+dft,1
+intellectual property,1
+application design,1
+web security,1
+proof point,1
+healthcare domain,1
+us healthcare,1
+fhir,1
+hl7,1
+cleaning,1
+extract,1
+vector db,1
+rag experience,1
+databricks lakehouse architecture,1
+ict,1
+it asset management,1
+soc service,1
+and ids/ips systems basic understanding of malware analysis and threat hunting concepts strong analytical,1
+communication,1
+security operation,1
+environment,1
+security protocols,1
+soc log analysis,1
+sentinelone,1
+help desk,1
+business continuity,1
+synthesis,1
+employee relations,1
+hr generalist activities,1
+joining formalities,1
+law enforcement,1
+computer proficiency,1
+report writing,1
+drug safety,1
+pv,1
+security analyst,1
+data integration,1
+big data technologies,1
+azure cloud services,1
+story writing,1
+facilitation,1
+metadata management,1
+olap,1
+ip protocols,1
+ip address,1
+ot soc,1
+network analysis,1
+it security operations,1
+reverse engineering,1
+illustrator,1
+adobe premiere pro,1
+azure vm,1
+azure ad and defender,1
+ms sentinel,1
+alert triage & investigation,1
+threat monitoring,1
+hrsd,1
+resource,1
+hr policies,1
+aimet,1
+genai techniques.,1
+tts,1
+technical architecture,1
+teraform,1
+virtual machines,1
+correlation,1
+analytics platforms,1
+digital forensics,1
+information systems security,1
+virus management,1
+password auditing,1
+hrms,1
+kql,1
+network devices,1
+service delivery,1
+benchmarking,1
+fine-tuning,1
+sage maker,1
+python and ai/ml frameworks,1
+infrastructure architecture,1
+atci-5236314-s1927736,1
+atci-5327489-s1942864,1
+artifactory,1
+ms fabrics,1
+.databricks,1
+databricks genai,1
+tensorrt,1
+tvm,1
+openvino,1
+onnx,1
+embedded,1
+excellent communication in english,1
+vector databases,1
+triton,1
+agent workflow orchestration,1
+rag architecture,1
+serverless architecture,1
+git version control,1
+server automation,1
+logging,1
+apm tools,1
+downstream,1
+itsm tools,1
+thermal,1
+design calculations,1
+design validation,1
+incharge,1
+hashicorp terraform,1
+ci / cd tools,1
+apb,1
+cloudfront,1
+arm templates,1
+azure pipelines,1
+cloud formation,1
+cloud automation,1
+cursor,1
+github copilot,1
+cloud connectivity,1
+corporate actions,1
+genai,1
+power platform,1
+copilot studio,1
+copilot,1
+stripe,1
+geni,1
+openai codex,1
+java script.,1
+nat,1
+ec2,1
+certified,1
+pipeline management,1
+docker &kubernates,1
+gke cluster,1
+erp modules,1
+azure kubernetes service,1
+azure kubernetes,1
+nginx,1
+shell python,1
+pagerduty,1
+gitlab,1
+cloud formation aws,1
+mentoring,1
+cloud based databases,1
+cloudformation,1
+aws ecosystem,1
+github actions,1
+azure sql,1
+cdc,1
+pr,1
+messaging systems,1
+octopus,1
+sysops,1
+langchain crewai,1
+time,1
+data management system,1
+tiering0/1/2,1
+hybrid identity,1
+identity security,1
+hcp,1
+genesys cloud,1
+scripter,1
+genesys pure cloud,1
+ivr,1
+gcp cloud engineer,1
+bedrock,1
+iii,1
+confluent,1
+apache kafka,1
+cloud engineering,1
+provision,1
+gateways,1
+n8n,1
+spring boot framework,1
+speech,1
+azure machine learning,1
+etl frameworks,1
+llamaindex,1
+vector,1
+vertixai,1
+stategraphs,1
+cloud operations,1
+learning and development,1
+cloud development,1
+kubernetes cluster,1
+cloud administration,1
+performance analysis,1
+etl development,1
+large language models,1
+ai engineering,1
+autogen,1
+langraph,1
+cloning,1
+license management,1
+application support,1
+cloud storage,1
+cai,1
+dr,1
+iostat,1
+contact center ai,1
+vmware cloud,1
+hyper-v,1
+agentic workflows,1
+al,1
+scp,1
+guard duty,1
+micro services,1
+amazon web services,1
+engineering services,1
+dataproc,1
+data flow,1
+cloud sql,1
+serverless,1
+reinsurance,1
+cloud migration,1
+cloud deployment,1
+vision language models,1
+segment anything model,1
+image segmentation,1
+system engineering,1
+aws bedrock,1
+payroll machine learning,1
+genrative ai,1
+linear regression,1
+decision trees,1
+power bi.,1
+weblogic,1
+websphere,1
+jms,1
+document management,1
+teleport,1
+devops tools,1
+multi-cloud,1
+sso,1
+multicloud,1
+hitrust,1
+engineer ii,1
+robotics,1
+manufacturing operations,1
+remote,1
+ml models,1
+biotechnology,1
+maintenance activities,1
+incident resolution,1
+unix system,1
+site reliability lead,1
+apm,1
+kvm,1
+distributed systems,1
+voice,1
+voice cloning,1
+text to speech,1
+casandra,1
+public cloud,1
+hpc,1
+rhce,1
+ups,1
+routing,1
+bgp,1
+network deployment,1
+vsat,1
+application software,1
+app support,1
+aiops,1
+normalization,1
+data cleaning,1
+and clustering algorithms.,1
+data handling,1
+sem,1
+bidding,1
+classical machine learning,1
+technical analysis,1
+cloudops,1
+slos,1
+customer-facing,1
+cloud flatform,1
+core sre,1
+low latency,1
+omnibus,1
+cost optimization,1
+provident fund,1
+iac tools,1
+azure cloud platform,1
+helm,1
+storage,1
+zabbix,1
+digital media,1
+mule,1
+mq,1
+gitlab ci,1
+site reliability engineer (sre),1
+downtime reduction,1
+mttr,1
+cuda,1
+mathematical modeling,1
+model serving,1
+ops,1
+scikit learn,1
+pattern recognition,1
+biometric,1
+fraud detection,1
+biometrics,1
+comparable saas platforms,1
+google workspace admin,1
+workspace administration,1
+outlook configuration,1
+new relic,1
+terraform cdk,1
+aws cdk,1
+azure event hubs,1
+postgresql administration,1
+inventory,1
+continuous delivery,1
+slo,1
+rbac,1
+sli,1
+vhdl,1
+teamcenter,1
+installation and configuration,1
+windows system administration,1
+azure infrastructure,1
+active directory support,1
+id,1
+root cause,1
+azure active directory,1
+chat support,1
+google workspace,1
+pipeline,1
+3d/cad,1
+boiler,1
+fcc,1
+identity verification,1
+microsoft flow,1
+dvc,1
+directory,1
+backup management,1
+rhel linux,1
+system installations,1
+oracle cluster,1
+patching,1
+nfs,1
+gen,1
+ooad,1
+feature engineering,1
+marketing analytics,1
+uvm,1
+hardware design,1
+verilog,1
+mlflow,1
+grinding,1
+production,1
+ncvt,1
+analytics reporting,1
+technical,1
+switch configuration,1
+router configuration,1
+rhel,1
+hardware troubleshooting,1
+virtualization management,1
+configuring lan,1
+firewall architecture,1
+adb,1
+deep,1
+demand forecasting,1
+sacm data analyst,1
+microsoft power bi,1
+data warehousing concepts,1
+fleet management,1
+transport management,1
+transport operations,1
+report analytics,1
+networking skills,1
+it security management,1
+odata,1
+software support,1
+network troubleshooting,1
+application software support,1
+service desk,1
+it service desk,1
+kubeflow,1
+cctv support,1
+windows administration,1
+level 1,1
+dvr,1
+cctv system,1
+cctv installation,1
+ccie,1
+cisco certified network professional,1
+gpo,1
+microsoft 0365,1
+group policies,1
+0365,1
+cctv configuration,1
+data transformation,1
+dbt,1
+sacm,1
+it hardware,1
+endpoint management,1
+firewall management,1
+microsoft 365 administration,1
+vpn configuration,1
+kannada,1
+t,1
+system administration t,1
+user access management,1
+data security & backup,1
+it assest management,1
+measurement,1
+security measure,1
+printer support,1
+domain server,1
+dhcp server,1
+manhattan wareshouse management system,1
+mwms,1
+linux administrator,1
+peripherals,1
+lamp stack,1
+windows server administration,1
+mac,1
+ip networking,1
+data centre operations,1
+server installation,1
+windows and linux server administration,1
+data centre operations and server monitoring,1
+mcse,1
+mcsa,1
+network engineering,1
+troubleshoot,1
+sum up,1
+wintree,1
+shopify,1
+hubspot,1
+xero,1
+business planning,1
+mis reporting,1
+oracle application framework,1
+oracle applications framework,1
+oracle erp,1
+user support,1
+maintenance,1
+recovery operations,1
+it projects,1
+system maintenance,1
+manhatton,1
+process optimization,1
+cbom implementation,1
+project support,1
+risk analytics,1
+regulatory reporting,1
+ddm,1
+kpi reporting,1
+exo player,1
+carplay,1
+android auto,1
+animation,1
+salesforce administrator,1
+hr analytics,1
+data insights,1
+people analytics,1
+data automation,1
+sustainability reporting,1
+online marketing,1
+live data,1
+hilt,1
+room database,1
+play store,1
+java sdk,1
+nfc,1
+video steaming,1
+data quality management,1
+operations management,1
+https,1
+customer satisfaction,1
+knowledge management,1
+optimization,1
+data preparation,1
+data discrepency,1
+google-internal data portals,1
+payment gateway integration,1
+map api,1
+data structure,1
+web services api,1
+data algorithms,1
+dynamic linking,1
+deep linking,1
+intellij,1
+secondary research,1
+hris,1
+data entry,1
+data entry operation,1
+financial reporting standards,1
+data enrichment,1
+android application,1
+ui frameworks,1
+data formats,1
+mobile computing,1
+ui design android studio,1
+encryption,1
+kotlin multiplatform,1
+testing frameworks,1
+software design and development,1
+hmi,1
+hmi design,1
+rxandroid,1
+jni,1
+sql querying,1
+reporting & dashboarding,1
+language teaching,1
+integration php,1
+technical product configuration,1
+source,1
+apis and data sources,1
+mvi,1
+loop,1
+instrumentation,1
+mobile technology,1
+ott,1
+mobile app,1
+telecommunication,1
+ai coding,1
+proof reading,1
+layout design,1
+consultancy,1
+technology consulting,1
+research analysis,1
+interviewing,1
+mapping,1
+data mapping,1
+data vis,1
+google data studio,1
+large databases,1
+palantir,1
+foundry,1
+junior associate,1
+sql coding,1
+mobile,1
+cartography,1
+google maps,1
+composing,1
+compose,1
+ios / android,1
+software analysis,1
+react native,1
+android deployed,1
+ios deployed,1
+cross platform mobile app development,1
+restful web api development,1
+messaging,1
+bloc pattern,1
+cloud messaging,1
+gorouter,1
+ios app development,1
+ux designs,1
+rest/graphql apis,1
+dio,1
+foundation,1
+skywise,1
+grievance management,1
+process compliance,1
+customer grievance,1
+capa,1
+grievance handling,1
+alteryx,1
+logic,1
+mercurial,1
+subversion,1
+software project,1
+sdk resources,1
+ui/ux principles,1
+lead management,1
+riverpod,1
+bengali,1
+data operation,1
+asr,1
+performance,1
+mft,1
+seeburger,1
+quality,1
+pharmacovigilance,1
+clinical research,1
+emr,1
+oracle cloud,1
+hlookup,1
+python data,1
+logical approach,1
+reporting and analytics,1
+report development,1
+palantir/foundry,1
+cloud exp req,1
+nec,1
+adtech,1
+qa strategies,1
+test plans,1
+functional manual testing,1
+test script,1
+release testing,1
+xpath,1
+autocad,1
+formulas,1
+backend operations,1
+computer operating,1
+non voice process,1
+back office processing,1
+typing speed,1
+selenium java,1
+game testing,1
+bot testing,1
+mobile application engineer,1
+qa python,1
+quality engineer,1
+testing life cycle,1
+data products,1
+looker,1
+feature prioritization,1
+regression modeling,1
+cloud solutions,1
+impact,1
+ml framework,1
+exp,1
+ai developer,1
+factoring,1
+power bi reports,1
+plotly,1
+qa/qc,1
+webdriver,1
+qa tools,1
+bug,1
+bug tracking,1
+business objects,1
+software testing life cycle,1
+ui testing,1
+exploratory testing,1
+scrum methodology,1
+automation engineering,1
+statistical analyses,1
+mes,1
+ai/ml or llm,1
+automotive domain,1
+influxdb,1
+automation script,1
+robot,1
+spc,1
+control plan,1
+avionics,1
+r and d,1
+fmeca,1
+pcb designing,1
+matplotlib,1
+bs,1
+cost benefit analysis,1
+cibil,1
+credit bureau,1
+object oriented analysis,1
+asana,1
+marine,1
+oil and gas,1
+scl,1
+paper,1
+pcs,1
+pcs 7,1
+multimedia technologies,1
+oss domain,1
+with 2+ years in ai/ml or llm-based systems,1
+7+ years in software qa/testing,1
+model versioning,1
+llm evaluation,1
+mitigation,1
+prototyping,1
+ai test engineering,1
+matrix,1
+data migration,1
+transmission,1
+tcae,1
+industrial,1
+line,1
+end of line test,1
+labview,1
+eolt,1
+teststand,1
+selenium testing,1
+middle tier,1
+pricing,1
+pricing analytics,1
+promotions,1
+end to end testing,1
+qxdm,1
+5g,1
+transformers,1
+technology leadership,1
+power transmission,1
+chemical,1
+python testing,1
+bmc,1
+openbmc,1
+ipmi,1
+redfish,1
+ethernet,1
+jlpt n3,1
+jlpt n2,1
+japanese bilingual,1
+mining,1
+spss,1
+payment gateways,1
+imps,1
+neft,1
+upi,1
+payment domain,1
+business requirements,1
+it systems,1
+qtp,1
+stress testing,1
+manual functional testing,1
+ai testing,1
+cell,1
+end to end,1
+small cell,1
+breakers,1
+export,1
+electrical engineer,1
+medium voltage,1
+cloud testing,1
+gxp,1
+plawright,1
+supervision,1
+platwright,1
+uft testing,1
+tosca,1
+prepaid,1
+cobol,1
+scientist iii,1
+geology,1
+geological data analytics,1
+fire,1
+lab testing,1
+nabl,1
+lab operations,1
+flammability testing,1
+fire testing,1
+computer knowledge,1
+assembly line,1
+computer skills,1
+data reconciliation,1
+data modernization,1
+data testing,1
+cybersecurity testing,1
+conflict resolution,1
+transition,1
+defect management,1
+capm,1
+hedge funds,1
+mpt,1
+gui testing,1
+d365 functional,1
+test engineer,1
+batch testing,1
+peripheral testing,1
+gadget testing,1
+pcb knowledge,1
+electronic components,1
+murex,1
+bo,1
+credit risk,1
+market risk,1
+customer care,1
+dashboarding,1
+mixpanel,1
+product analytics,1
+amplitude,1
+clevertap,1
+sap testing,1
+closure,1
+black box,1
+test execution,1
+microsoft dynamics,1
+sales tools,1
+software qa,1
+devices,1
+robotic automation,1
+hadoop spark,1
+timeseries databases,1
+product roadmap,1
+information management,1
+quicksight,1
+digital lending,1
+los,1
+user acceptance testing,1
+merchandising,1
+retail merchandising,1
+global delivery,1
+product development,1
+insights,1
+metrics,1
+function calling,1
+information retrieval,1
+business understanding,1
+vehicle dynamics,1
+on-site prodcut owner,1
+salesforce sales cloud,1
+atci-5285843-s1931291,1
+atci-5285138-s1931221,1
+integration platforms,1
+ab initio,1
+rrc,1
+nas,1
+4g/5g,1
+c/c++,1
+modem development,1
+software developer,1
+infotainment,1
+competitive analysis,1
+user research,1
+product planning,1
